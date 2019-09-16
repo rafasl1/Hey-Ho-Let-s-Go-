@@ -25,6 +25,6 @@ func main() {
      fmt.Println("Sou uma batata do tipo",ruffles.getTipo())
 
      ruffles.setTempoColheita(20)
-     fmt.Println("Levei",ruffles.tempoColheita,"dias ate ser colhido!");
+     fmt.Println("Levei",ruffles.tempoColheita,"dias ate ser colhido!")
 }
 
