@@ -19,7 +19,6 @@ func (batata *Batata) setTempoColheita (tempo int) {
      batata.tempoColheita = tempo
 }
 
-
 func main() {
      ruffles := Batata{"chips",10,false}
      fmt.Println("Sou uma batata do tipo",ruffles.getTipo())
